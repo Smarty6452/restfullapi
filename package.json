@@ -4,12 +4,12 @@
   "description": "A Node App demonstrating simple RESTFul API implementation",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "test":"echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
 
   },
   "engines": {
-    "node": "16.14.0"
+    "node":"16.14.0"
   },
   "keywords": [
     "API",
